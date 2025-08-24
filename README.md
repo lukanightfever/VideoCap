@@ -1,7 +1,8 @@
 VideoCap
 ===
 A video annotation tool. For annotating video text captions. <br>
-一个视频标注工具。用于标注视频文本caption。
+一个视频标注工具。用于标注视频文本caption。 <br>
+工程需要相关依赖，完整代码详见安装包。
 
 Install
 ===
