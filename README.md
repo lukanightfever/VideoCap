@@ -1,5 +1,8 @@
 VideoCap
 ===
+A video annotation tool. For annotating video text captions.
+一个视频标注工具。用于标注视频文本caption。
+
 Install
 ===
 Download and install [java jdk](https://www.oracle.com/java/technologies/downloads/#jdk24-windows).
