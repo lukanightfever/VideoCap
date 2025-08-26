@@ -6,8 +6,8 @@ A video annotation tool. For annotating video text captions. <br>
 
 Install
 ===
-Download and install [java jdk](https://www.oracle.com/java/technologies/downloads/#jdk24-windows).
-Configure Java environment variables [JAVA_HOME](https://www.ibm.com/docs/zh/b2b-integrator/5.2.0?topic=installation-setting-java-variables-in-windows)
+Download and install [java jdk](https://www.oracle.com/java/technologies/downloads/#jdk24-windows). <br>
+Configure Java environment variables [JAVA_HOME](https://www.ibm.com/docs/zh/b2b-integrator/5.2.0?topic=installation-setting-java-variables-in-windows).
 
 Demo
 ===
